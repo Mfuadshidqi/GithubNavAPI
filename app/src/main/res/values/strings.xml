@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">FuadGithub</string>
+    <string name="search">Search</string>
+    <string name="search_hint">masukan username..</string>
+    <string name="user_name">Username</string>
+    <string name="image">Photo User</string>
+    <string name="data_count">Search result : %d user</string>
+    <string name="name">Name</string>
+    <string name="detail_username">Username</string>
+    <string name="detail_company">Company</string>
+    <string name="location">Location</string>
+    <string name="repo">Repositories</string>
+    <string name="tab_text_1">%d Follower</string>
+    <string name="tab_text_2">%d Following</string>
+    <string name="repository">%d Repository</string>
+    <string name="view">Ini view</string>
+</resources>
